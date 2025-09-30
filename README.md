@@ -177,6 +177,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by [Hanzla Masood](https://github.com/codewithhazzi)**
 
+*Special thanks to [CodeWithAntonio](https://github.com/AntonioErdeljac) for being an amazing mentor and teaching me the fundamentals of modern web development! 🚀*
+
 [![GitHub stars](https://img.shields.io/github/stars/codewithhazzi/Vibe?style=social)](https://github.com/codewithhazzi/Vibe)
 [![GitHub forks](https://img.shields.io/github/forks/codewithhazzi/Vibe?style=social)](https://github.com/codewithhazzi/Vibe)
 
