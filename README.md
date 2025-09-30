@@ -63,8 +63,8 @@
 
 ```bash
 # 1. Clone repository
-git clone <your-repo-url>
-cd nextjs-vibe-main
+git clone https://github.com/codewithhazzi/Vibe
+cd Vibe
 
 # 2. Install dependencies
 npm install
