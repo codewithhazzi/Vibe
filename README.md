@@ -38,7 +38,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Frontend**
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js&logoColor=white)](https://nextjs.org/)
